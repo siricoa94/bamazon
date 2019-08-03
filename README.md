@@ -1,9 +1,9 @@
 # bamazon
 
-#Getting Started 
+# Getting Started 
 I began this project first by creating a folder that would hold all my files. Next I created the blank files I thought would be neccissary for my project. After having my files in order, I decided to work in mysql first.
 
-#installation process
+# installation process
 
 Before I begin on the data, I would like to mention a few neccissary npm package installs for this project.
 
